@@ -1,0 +1,7 @@
+data,usuario,status
+2026-11-10 08:00,usuario01,sucesso
+2026-11-10 08:05,usuario02,falha
+2026-11-10 08:06,usuario02,falha
+2026-11-10 08:07,usuario02,falha
+2026-11-10 08:10,usuario03,sucesso
+2026-11-10 08:15,usuario01,falha
